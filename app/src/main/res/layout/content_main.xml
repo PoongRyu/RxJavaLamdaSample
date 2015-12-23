@@ -20,4 +20,15 @@
         android:background="@android:color/holo_green_light"
         android:gravity="center"
         android:text="Go RxJava TEST with Adroid"/>
+
+    <TextView
+        android:id="@+id/go_rxjava_act2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@android:color/darker_gray"
+        android:layout_below="@+id/go_rxjava_act"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:text="Go RxJava TEST with Adroid"/>
 </RelativeLayout>
